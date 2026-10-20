@@ -1,6 +1,6 @@
 # Naira to Dollar Converter
 
-A simple web application that converts Nigerian naira (NGN) to US dollars (USD) using a configurable example exchange rate.
+A simple web application that converts Nigerian naira (NGN) to US dollars (USD) using an example exchange rate.
 
 ## Features
 
