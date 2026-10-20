@@ -30,6 +30,7 @@ button {
     }
 
 #result {
+    color: red;
     font-weight: bold;
     overflow-wrap: anywhere;
 }
