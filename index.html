@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naira-dollar-converter</title>
+    <!-- linking style sheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- linking javascript file -->
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main class="converter">
+        <h1>Naira to Dollar Converter</h1>
+        <p>Convert Nigerian naira to US dollars.</p>
+
+        <label for="naira">Amount in naira (₦)</label>
+        <input id="naira" type="number" min="0" step="any" placeholder="Enter amount">
+
+        <button id="convert">Convert to USD</button>
+        <p id="result" aria-live="polite"></p>
+        <small>Example rate: ₦1,500 = $1.</small>
+        <small class="warning">This is not market rates and is for personal use</small>
+    </main>
+</body>
+</html>
