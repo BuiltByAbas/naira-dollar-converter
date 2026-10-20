@@ -24,3 +24,8 @@ No additional packages are required.
 - HTML
 - CSS
 - JavaScript
+
+## Author
+BuiltByAbas
+
+Email: andyabasiofon@gmail.com
